@@ -1,2 +1,2 @@
-# Dotnet-MVC
-This is based on mvc in Dotnet
+# Dotnet-MAUI
+for multi-plateforms app UI
